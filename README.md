@@ -4,7 +4,6 @@
 
 This project demonstrates a **job-ready batch ETL pipeline** built using **Databricks, PySpark, Delta Lake, and Amazon S3**. The pipeline ingests raw CSV data from S3, processes it through a **Bronze → Silver → Gold** lakehouse architecture, and produces analytics-ready datasets.
 
-This project is designed to reflect **real-world data engineering practices** and is suitable for inclusion in a **data engineering portfolio or resume**.
 
 ---
 
